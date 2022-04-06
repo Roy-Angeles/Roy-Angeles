@@ -1,4 +1,4 @@
-- Hi, I’m Roy Angeles.
+- Hi, I’m R Angeles.
 - I’m a Computer Science Graduate.
 - I have been in the Oil & Gas industry for the more 10 years.
 - I’m currently taking up the Udacity's Front End Web Development Nanodegree program 
